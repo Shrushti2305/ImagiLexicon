@@ -9,5 +9,5 @@ Steps to run the application on your computer :
 2. Go to repo directory.
 3. Install requirements<br>
       `requirements.txt`
-4. 4. Run the application<br>
+4. Run the application<br>
 	`app.py`
