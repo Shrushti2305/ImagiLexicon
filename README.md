@@ -11,3 +11,12 @@ Steps to run the application on your computer :
       `requirements.txt`
 4. Run the application<br>
 	`app.py`
+	
+	
+	
+	
+	
+# Output generated
+
+
+![img](https://github.com/Shrushti2305/ImagiLexicon/assets/90635819/d68fd923-2aa2-415d-b4ab-138ea9d9d731)
